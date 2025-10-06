@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ravi Kalmodiya</h1>
-<h3 align="center">Passionate Full Stack Web Developer from Indore, India 🌍 Trained at **Masai School, Bengaluru in MERN stack development 🚀 Skilled in building responsive and interactive web apps using React, Node.js, Express, and MongoDB 💻 Always learning new technologies and creating real-world projects</h3>
+<h1 align="center">Hi , I'm Ravi Kalmodiya</h1>
+<h3 align="center">Passionate Full Stack Web Developer from Indore, India  Trained at **Masai School, Bengaluru in MERN stack development  Skilled in building responsive and interactive web apps using React, Node.js, Express, and MongoDB Always learning new technologies and creating real-world projects</h3>
 
 - Movie Hub is a full-stack web application built using the MERN stack that [MatchMaker](https://magenta-florentine-9b2c7f.netlify.app/)
 
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **ravikalmodiya552@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12SaQrgroMJkCMQfLVAXyAyg6edsXYlGZ/view](https://drive.google.com/file/d/12SaQrgroMJkCMQfLVAXyAyg6edsXYlGZ/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
