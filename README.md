@@ -3,11 +3,9 @@
 
 - Movie Hub is a full-stack web application built using the MERN stack that [MatchMaker](https://magenta-florentine-9b2c7f.netlify.app/)
 
-- An e-commerce shopping website for trendy fashion products **Trend Bazaar**
+- An e-commerce shopping website for trendy fashion products [Trend Bazaar](https://statuesque-sunburst-6da1e5.netlify.app/) 
 
 - This project compilitad [Movie Hub](https://tangerine-frangollo-42acd5.netlify.app/)
-
-- Smart home control dashboard built with React and Firebase, [Smart Home](https://strong-wisp-3efde6.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://ravik-portfolio.netlify.app/](https://ravik-portfolio.netlify.app/)
 
