@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hi, I'm Ravi Kalmodiya</h1>
-<h3 align="center">💻 Passionate Full Stack Web Developer | MERN Stack | From Indore, India</h3>
+<h1 align="center"> Hi, I'm RAVI KALMODIYA</h1>
+<h3 align="center"> Passionate Full Stack Web Developer | MERN Stack | From Indore, India</h3>
 
 <p align="center">
-🎓 Trained at <strong>Masai School, Bengaluru</strong> in MERN Stack Development.<br/>
-🚀 Skilled in building responsive and interactive web applications using <strong>React, Node.js, Express, and MongoDB</strong>.<br/>
-🌱 Always learning new technologies and developing real-world projects to strengthen full stack expertise.
+ Trained at <strong>Masai School, Bengaluru</strong> in MERN Stack Development.<br/>
+ Skilled in building responsive and interactive web applications using <strong>React, Node.js, Express, and MongoDB</strong>.<br/>
+ Always learning new technologies and developing real-world projects to strengthen full stack expertise.
 </p>
 
 ---
